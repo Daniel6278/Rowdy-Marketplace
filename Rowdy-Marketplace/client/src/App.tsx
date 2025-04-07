@@ -7,7 +7,7 @@ function App() {
   return (
     <main>
       <Container>
-        <p>E-commerce demo</p>
+        <p>E-commerce demo hello world</p>
       </Container>
     </main>
   );
